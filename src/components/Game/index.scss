@@ -1,0 +1,14 @@
+#game {
+    table {
+        border-collapse: collapse;
+        border: 1px solid #aaa;
+
+        tr {
+            td {
+                width: 24px;
+                height: 24px;
+                border: 1px solid #aaa;
+            }
+        }
+    }
+}
